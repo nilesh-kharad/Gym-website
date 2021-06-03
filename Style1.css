@@ -1,0 +1,12 @@
+.gallary img{
+    height: 20%;
+    width: 20%;
+    display: 'flexbox';
+    margin: 10px;
+}
+.gallary img:hover{
+    border: 3px solid red;
+}
+.gallary img:active{
+    border: 3px solid red;
+}
